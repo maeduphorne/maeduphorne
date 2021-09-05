@@ -22,7 +22,7 @@ I'm Mae Duphorne - a former fine-dining Event Manager turned Software Engineer. 
 ![image](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
 
-https://github-readme-stats.vercel.app/api?username={username}
+[![Mae's GitHub stats](https://github-readme-stats.vercel.app/api?username=maeduphorne)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Other Skills
