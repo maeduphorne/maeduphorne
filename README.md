@@ -1,6 +1,6 @@
 ### Howdy 🤠
 
-I'm Mae Duphorne - a former fine-dining Event Manager turned Software Engineer. I'm currently studying at [Turing School of Software and Design](https://turing.edu/) with an anticipated completion date of _November 2021_. My extensive background in the restaurant industry has taught me to problem solve quickly and consistently and I can't wait to see what my "make it work" attitude can bring to life with my newly gained skills in software development.  
+I'm Mae Duphorne - a former fine-dining Event Manager turned Software Engineer. I'm currently studying at [Turing School of Software and Design](https://turing.edu/) with an anticipated completion date of _November 2021_. My extensive background in the restaurant industry has taught me to problem solve quickly and consistently and I can't wait to see what my "make it work" attitude will bring to life when combined with my skills in software development.  
 
 - 😄 Pronouns: she/her
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/maeduphorne/)
@@ -22,7 +22,7 @@ I'm Mae Duphorne - a former fine-dining Event Manager turned Software Engineer. 
 ![image]({https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white})
 
 
-https://github-readme-stats.vercel.app/api?username={maeduphorne}
+https://github-readme-stats.vercel.app/api?username={username}
 
 
 ##Other Skills
