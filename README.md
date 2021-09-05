@@ -7,7 +7,8 @@ I'm Mae Duphorne - a former fine-dining Event Manager turned Software Engineer. 
 - 👍 Previous education: Bachelor of Arts in Communication at Texas A&M University
 - 🌱 I’m currently excited about learning React & TypeScript
 
-##Technologies
+## Technologies
+<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
 ![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
 ![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
 ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
@@ -25,7 +26,7 @@ I'm Mae Duphorne - a former fine-dining Event Manager turned Software Engineer. 
 https://github-readme-stats.vercel.app/api?username={username}
 
 
-##Other Skills
+## Other Skills
 - Test Driven Development
 - RESTful APIs
 - Project Management
